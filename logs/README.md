@@ -1,0 +1,1 @@
+this is here because the logs folder needs to be created for the service to run

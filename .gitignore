@@ -20,3 +20,6 @@ pugnasares
 # environment variables
 .env
 **/.env
+
+# don't store log files
+**/*.log
