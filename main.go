@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-const honeypotPort = ":80"
+const honeypotPort = ":3001"
 
 func main() {
 	http.HandleFunc("/", dumpBytes)
