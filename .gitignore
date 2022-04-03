@@ -16,3 +16,7 @@
 
 # build binary
 pugnasares
+
+# environment variables
+.env
+**/.env
